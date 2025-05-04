@@ -50,7 +50,6 @@ Bu repo, temel görüntü işleme işlemleri üzerine MATLAB ile gerçekleştiri
 Bu repo eğitim ve öğrenme amaçlı hazırlanmıştır. Her türlü öneri ve katkıya açığım. Pull request veya issue açabilirsiniz.
 
 
-.............
 
 # MATLAB Image Processing Projects
 
