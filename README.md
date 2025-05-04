@@ -28,6 +28,10 @@ Bu repo, temel görüntü işleme işlemleri üzerine MATLAB ile gerçekleştiri
 - **Amaç:** Görüntüye farklı seviyelerde rastgele gürültü eklemek ve etkisini görselleştirmek.
 - **İşlev:** Orijinal görüntüye düşük ve yüksek seviyede rastgele (uniform) gürültü ekler; orijinal, düşük ve yüksek gürültülü halleri yan yana gösterir.
 
+### 7. `FieldCutWithFor.m`
+- **Amaç:** Bir görüntüden belirli bir bölgeyi (örneğin göz bölgesi) manuel döngülerle kesmek.
+- **İşlev:** Belirlenen koordinatlar (üst, alt, sol, sağ sınırlar) içinde döngü ile ilgili bölgeyi yeni bir matrise kopyalar ve sadece bu kesilmiş bölgeyi gösterir.
+
 ## Kullanım
 
 1. MATLAB açın.
