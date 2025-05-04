@@ -1,5 +1,5 @@
 % Görüntüyü dosyadan okuyoruz
-image = imread('biyometrikk.jpg');
+image = imread('image.jpg');
 
 % Göz bölgesini tanımlamak için sınır koordinatlarını belirliyoruz
 y_ust = 200;  % Göz bölgesinin üst sınırı
@@ -26,5 +26,5 @@ end
 imshow(Goz);
 
 % Açıklama:
-% Bu kod, biyometrik bir görüntüden belirlenen koordinatlar arasında
+% Bu kod, bir görüntüde belirlenen koordinatlar arasında
 % göz bölgesini çıkarıp gösterir. Koordinatlar değiştirilerek farklı bölgeler kesilebilir.
