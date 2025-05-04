@@ -1,5 +1,5 @@
 % --- Orijinal görüntüyü oku ---
-img = imread("aley.jpg");
+img = imread("image.jpg");
 
 % --- Gri seviyeye çevir (burada sadece kırmızı kanalı alıyoruz; gri ton gibi kullanabiliriz) ---
 A = img(:,:,1);
