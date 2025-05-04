@@ -1,5 +1,5 @@
 % Görüntüyü dosyadan okuyoruz
-A = imread("aley.jpg");
+A = imread("image.jpg");
 
 % Görüntünün kırmızı kanalını alıyoruz (1. renk kanalı)
 A_red = A(:,:,1);
